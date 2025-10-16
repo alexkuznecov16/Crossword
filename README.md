@@ -84,4 +84,4 @@ All letters are revealed on the grid.
 
 ## Author
 
-Created as a Java programming practice project by [Alexander Kuznecov].
+Created as a Java programming practice project by Alexander Kuznecov.
